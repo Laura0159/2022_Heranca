@@ -1,4 +1,5 @@
-public class Pessoa{
-    String nome;
+public class Pessoa {
+    char nome;
     int idade;
+    
 }
