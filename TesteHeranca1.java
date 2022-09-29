@@ -1,6 +1,6 @@
 public class TesteHeranca1 {
 
-    public void main (String[] args){
+    public static void main (String[] args){
         //vejamos se alunos de graduaçao tem nome e idade
         //construtor que não recebe coisa nenhuma é : construtor padrao
         AlunoDeGraduacao aluno = new AlunoDeGraduacao();
